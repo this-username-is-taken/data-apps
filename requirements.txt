@@ -1,6 +1,7 @@
 subgrounds==0.1.1
 streamlit
 streamlit-autorefresh
+streamlit_echarts
 black
 altair
 pyecharts
