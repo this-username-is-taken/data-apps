@@ -17,7 +17,7 @@ python3 install -r requirements.txt
 Run locally
 
 ```
-streamlit run makerdao.py
+streamlit run balancer.py
 ```
 
 ## TODO
